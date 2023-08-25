@@ -1,0 +1,112 @@
+.carousel-inner{
+    max-width: 70%;
+    height: auto;
+    margin: 50px auto 0; /* Ajoutez une marge de 20px en haut, centre horizontalement */
+    display: block;
+    position: absolute;
+    left: 120px;
+    align-items: center;
+    justify-content: center;
+    height: 100%; /* Pour centrer verticalement */
+    
+}
+
+.carousel-item{
+    max-width: 70%;
+    height: auto;
+    margin: 50px auto 0; /* Ajoutez une marge de 20px en haut, centre horizontalement */
+    display: block;
+     align-items: center;
+    justify-content: center;
+    height: 100%; /* Pour centrer verticalement */
+    position: absolute;
+    left: 120px;
+   
+  
+}
+
+.carousel-item{
+    max-width: 70%;
+    height: auto;
+    margin: 50px auto 0; /* Ajoutez une marge de 20px en haut, centre horizontalement */
+    display: block;
+    position: absolute;
+    left: 120px;
+    
+    align-items: center;
+    justify-content: center;
+    height: 100%; /* Pour centrer verticalement */
+    
+}
+
+
+
+/* Réduire la taille de l'accordéon */
+.accordion {
+    max-width: 400px; /* Ajustez cette valeur selon vos besoins */
+    
+    margin: 70px auto 0; /* Ajoutez une marge de 50px en haut et centre horizontalement */
+    
+}
+
+.accordion-container {
+    margin-top: -20px; /* Ajustez cette valeur pour déplacer l'accordéon vers le haut */
+}
+
+
+/* Réduire la taille des boutons d'accordéon */
+.accordion-button {
+    padding: 0.5rem 1rem; /* Ajustez ces valeurs pour modifier l'espace autour du texte */
+    font-size: 14px; /* Ajustez la taille de la police */
+}
+
+.body {
+    background-color: rgba(255, 0, 0, 0.5); /* Couleur rouge semi-transparente */
+    margin: 0; /* Supprime la marge par défaut du body */
+    padding: 0; /* Supprime le padding par défaut du body */
+}
+
+/*navbar*/
+.container-fluid{
+  background-color: #F5FFFA;
+}
+
+.site-footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    color: #333;
+    margin-top: 30px; /* Ajustez cette valeur selon vos besoins */
+}
+
+.site-footer h3 {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.site-footer nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 5px 0;
+}
+
+.site-footer nav ul li {
+    display: inline;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.site-footer p {
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.site-footer a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
